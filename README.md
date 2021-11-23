@@ -1,3 +1,3 @@
 # bbc_website_clone
 A course project aimed to solidify my HTML and CSS skills. 
-This course project was the final chapter of a free Udemy course. I do not own neither the design, nor the buttons or other elements.
+This project was the final chapter of a free Udemy course. I do not own neither the design, nor the buttons or other elements.
